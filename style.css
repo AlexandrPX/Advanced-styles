@@ -119,12 +119,17 @@ div.modal-window {
     margin-bottom: 268px;
 }
 
+.modal-window__navigation-link {
+    text-decoration: none;
+    color: #1B1C21;
+}
+
 .modal-window__navigation-item {
     margin-bottom: 32px;
     position: relative;
 }
 
-.current-navigation-item {
+.current-navigation-link {
     color: #7E7E82;
 }
 
